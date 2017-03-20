@@ -1,10 +1,3 @@
-Asignment Group:
-Arun Rajagopalan  A20360689
-Himanshu Singh    A20365395 
-Shivani Shinde    A20353384
-Suraj Chafle      A20341126
-
-Presentation can be found in file: Assignment2.pdf
 
 The Source code is a single file named detect_smear.py
 
